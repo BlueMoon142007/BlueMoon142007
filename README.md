@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @BlueMoon142007
 - 👀 I’m interested in Painting
 - 🌱 I’m currently learning pyhton and digital marketing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i like cats and the color blue!
 
